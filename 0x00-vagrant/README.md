@@ -1,1 +1,1 @@
-En este proyecto aprendemos a utilizar la rherramienta de git
+At the end of this project, you are expected to be able to explain to anyone, without the help of
