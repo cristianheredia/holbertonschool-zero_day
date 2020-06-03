@@ -1,4 +1,6 @@
-Description
-
-
-Print certain system information. With no OPTION, same as -s.
+No command 'same' found, did you mean:
+ Command 'lame' from package 'lame' (universe)
+  Command 'mame' from package 'mame' (multiverse)
+   Command 'sam' from package 'simon' (universe)
+    Command 'save' from package 'atfs' (universe)
+    same: command not found
