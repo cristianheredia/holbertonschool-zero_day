@@ -1,0 +1,1 @@
+En este proyecto aprendemos a utilizar la rherramienta de git
